@@ -17,19 +17,7 @@ Download tons of fonts as you please
 * scipy ~~>= 0.18.1~~ 1.2.1
 * imageio
 
-https://hackmd.io/@zracShsQRW6KsIfEDHPQ7g/Sy6bueGvh
-
-```sh
-python font2img.py --src_font=font/NotoSansTC-Black.ttf --dst_font=font/sjis_sp_setofont.ttf --charset=CN  --sample_count=1000 --sample_dir=image_data_dir --label=0 --filter=1 --shuffle=0
-```
-
-```
-python package.py --dir=image_data_dir --save_dir=experiment/data
-```
-
-```
-python train.py --experiment_dir=experiment --experiment_id=0 --batch_size=16 --lr=0.001 --epoch=40 --sample_steps=50 --schedule=20 --L1_penalty=100 --Lconst_penalty=15
-```
+[detailed information](https://hackmd.io/@zracShsQRW6KsIfEDHPQ7g/Sy6bueGvh "about zi2zi")
 
 
 # Original author
