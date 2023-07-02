@@ -17,7 +17,7 @@ Download tons of fonts as you please
 * scipy ~~>= 0.18.1~~ 1.2.1
 * imageio
 
-[detailed information](https://hackmd.io/@zracShsQRW6KsIfEDHPQ7g/Sy6bueGvh "about zi2zi")
+[Detailed Information](https://hackmd.io/@zracShsQRW6KsIfEDHPQ7g/Sy6bueGvh "about zi2zi")
 
 
 # Original author
