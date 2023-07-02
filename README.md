@@ -17,6 +17,8 @@ Download tons of fonts as you please
 * scipy ~~>= 0.18.1~~ 1.2.1
 * imageio
 
+https://hackmd.io/@zracShsQRW6KsIfEDHPQ7g/Sy6bueGvh
+
 ```sh
 python font2img.py --src_font=font/NotoSansTC-Black.ttf --dst_font=font/sjis_sp_setofont.ttf --charset=CN  --sample_count=1000 --sample_dir=image_data_dir --label=0 --filter=1 --shuffle=0
 ```
