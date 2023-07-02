@@ -1,0 +1,16 @@
+*.pyc
+datasets/
+
+.DS_Store
+.idea/
+
+experiment/*
+experiment/data/*
+!experiment/data
+
+image*/
+image*/*.jpg
+!image_data_dir/
+
+*.txt
+
